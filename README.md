@@ -2,8 +2,11 @@
 Proyecto Electrónica Digital II
 
 Otto Bonilla
+
 Alejandro Avila
+
 Anderson Danilo Guerrero Calpa
+
 
 En el siguiente repositorio se tratara temas que se desarrollan en la asignatura de Electronica Digital II, ofertada para la carrera de Ingenieria Electrónica de la Universidad Nacional de Colombia.
 
